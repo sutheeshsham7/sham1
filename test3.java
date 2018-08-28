@@ -1,6 +1,8 @@
-public class VowelConsonant {
+public class test3
+{
 
-    public static void main(String[] args) {
+    public static void main(String[] args)
+    {
 
         char ch = 'i';
 
