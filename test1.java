@@ -1,6 +1,6 @@
 class test1
 {
-public static void main(String arge[])
+public static void main(String args[])
 {
 int a=3;
 if(a<0)
