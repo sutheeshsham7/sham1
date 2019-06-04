@@ -6,7 +6,6 @@ public class NumberDigits {
 
         while(num != 0)
         {
-            // num = num/10
             num /= 10;
             ++count;
         }
